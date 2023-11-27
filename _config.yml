@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 A place to store things I find helpful as a tech artist and Unreal Engine developer.
 twitter_username: 
 github_username: mslivinski
-minimal_mistakes_skin: mike # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: dark # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings
