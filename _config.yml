@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Mike Slivinski"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Photo.png"
   bio    : "Tech Artist / Unreal Engine Specialist"
   links:
     - label: "Website"
