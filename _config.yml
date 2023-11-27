@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: 
 github_username: mslivinski
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/Photo.png"
   bio    : "Tech Artist / Unreal Engine Specialist"
   links:
-    - label: "Website"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://mikeslivinski.com/"
     - label: "GitHub"
@@ -71,7 +71,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
       url: "https://mikeslivinski.com/"
     - label: "GitHub"
