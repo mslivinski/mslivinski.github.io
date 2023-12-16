@@ -60,8 +60,11 @@ author:
   avatar : "/assets/images/Photo.png"
   bio    : "Tech Artist / Unreal Engine Specialist"
   links:
+    - label: "My links"
+      icon: "fas fa-fw fa-id-card"
+      url: "https://linktr.ee/IncredibleYeti"
     - label: "Portfolio"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-camera-retro"
       url: "https://mikeslivinski.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
